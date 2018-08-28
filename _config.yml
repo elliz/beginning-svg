@@ -1,9 +1,4 @@
-name: "IWDevs 16 - Jekyll"
+name: "Beginning SVG"
 description: ""
 
-# baseurl: /_site/
-# baseurl: "/greenshoots/"
-
 pygments: false
-
-future: false  
