@@ -1,6 +1,5 @@
-#IWDevs
-======
+# Beginning SVG
 
-Created for introduction talk about Jekyll / Github Pages at the IW Devs group 1 Oct 2013
+Five minute lightning talk for Fenders Perth, Western Australia 2018-08-28
 
-See it at http://elliz.github.io/iwdevs
+view the slides at https://elliz.github.io/beginning-svg/
